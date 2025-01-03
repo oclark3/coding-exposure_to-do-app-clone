@@ -1,19 +1,13 @@
-# to_do_2
+To-Do List App 📝
 
-A new Flutter project.
+A simple and functional to-do list app built by following this YouTube tutorial series:
+    YouTube: https://www.youtube.com/playlist?list=PLesyDHXnnTyM5nC88Ebh8KnUdxu6cvCDJ
+    Tutorial GitHub Repo: https://github.com/martusheff/flutter-to-do-list
+    
+This project showcases foundational web development skills, including:
+    🛠️ Building a clean and user-friendly UI
+    🌟 Implementing CRUD operations
+    📦 Managing state with React
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-***** Note by Olivia: tutorial used to create this app: https://www.youtube.com/watch?v=d5ecEZtGQko&list=PLesyDHXnnTyM5nC88Ebh8KnUdxu6cvCDJ *****
+Purpose
+    This repository is part of a learning journey, demonstrating a practical to-do list application while gaining hands-on experience with React and modern development practices.
