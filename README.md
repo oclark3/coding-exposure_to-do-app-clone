@@ -11,4 +11,4 @@ This project showcases foundational web development skills, including:
 
 ## Purpose
 
-This repository is part of a learning journey, demonstrating a practical to-do list application while gaining hands-on experience with React and modern development practices.
+This repository is part of a learning journey - it is exposure to project building through demonstration of a practical to-do list application for hands-on experience with React and modern development practices.
